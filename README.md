@@ -25,7 +25,7 @@ You need to solve the following questions to help the company make informed busi
 4.	Lowest Popularity: 7.100000
 5.	Year with Most Releases: *2021*.
 
-## visualization
+## Visualization:
 ![NETFLIX visual](https://github.com/user-attachments/assets/b4f0d4eb-7b32-4c25-9f4f-9913134d4fcf)
 
 
